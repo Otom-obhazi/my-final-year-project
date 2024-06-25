@@ -6,3 +6,8 @@ The system comprises an RFID module, a fingerprint sensor, a microprocessor, an 
 Upon initialization, the system prompts users to scan their RFID cards. If the card ID matches the authorized list, the user is then required to produce a fingerprint. Successful fingerprint verification results in the door unlocking, whereas failure in either phase prevents access. This two-step verification approach considerably bolsters security by assuring that possession of a valid RFID card alone is insufficient for entrance.
 The project covers hardware design, software development, and integration of all components. The implementation is evaluated by unit and integration testing, ensuring reliability and user-friendliness. Future developments could involve integrating mobile applications for remote monitoring and introducing new biometric authentication techniques.
 This dual-authentication system offers a realistic and successful method for strengthening security in diverse situations, including residential, commercial, and industrial applications.
+
+
+
+
+the codes i used are uploaded
